@@ -90,7 +90,7 @@ export default function Home() {
             textShadow: '0 4px 20px rgba(0,0,0,0.2)',
             letterSpacing: '-0.02em'
           }}>
-            With SubTrack8
+            SubTrack8
           </h1>
           <div style={{ 
             color: '#e0e7ff', 
